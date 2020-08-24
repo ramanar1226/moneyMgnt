@@ -6,7 +6,8 @@ public class TestMain {
 		
 		System.out.println("main class");
 	
-		System.out.println("branch 1 new");
+		System.out.println("branch 1 new updated");
+		
 		
 	}
 
